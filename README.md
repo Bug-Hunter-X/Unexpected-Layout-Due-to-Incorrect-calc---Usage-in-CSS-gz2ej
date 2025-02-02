@@ -1,0 +1,1 @@
+This repository demonstrates a common CSS bug involving the `calc()` function, specifically its interaction with flexbox. The `bug.css` file contains the incorrect implementation, leading to unexpected layout.  The `bugSolution.css` file provides the corrected code and explanations.
